@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Json_Userdata.Controllers.UserController",
+    "Method": "GetUserData",
+    "RelativePath": "api/User/data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Json_Userdata.Controllers.UserController",
+    "Method": "AddUserData",
+    "RelativePath": "api/User/data",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userData",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

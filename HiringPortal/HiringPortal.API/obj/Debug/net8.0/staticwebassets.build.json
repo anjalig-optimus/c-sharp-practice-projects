@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aU3dRWNCJZHgtt7J3RzCmMaIBu1arf5qj38agyqG83U=",
+  "Source": "HiringPortal.API",
+  "BasePath": "_content/HiringPortal.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{879B43BB-F983-4EE6-AE75-8F02E25BE425}|Employee.Persistence\\Employee.Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.persistence\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879B43BB-F983-4EE6-AE75-8F02E25BE425}|Employee.Persistence\\Employee.Persistence.csproj|solutionrelative:employee.persistence\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E86133-37A1-4EC2-9E3E-A9917399280D}|Employee.Application\\Employee.Application.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E86133-37A1-4EC2-9E3E-A9917399280D}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B95C00B-5AD3-43E2-AC59-20E0946C7D58}|Employee.Domain\\Employee.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.domain\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B95C00B-5AD3-43E2-AC59-20E0946C7D58}|Employee.Domain\\Employee.Domain.csproj|solutionrelative:employee.domain\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D714CEF1-A73E-4E14-86B1-21DF1292CE1E}|Employee.Api\\Employee.Api.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D714CEF1-A73E-4E14-86B1-21DF1292CE1E}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D714CEF1-A73E-4E14-86B1-21DF1292CE1E}|Employee.Api\\Employee.Api.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D714CEF1-A73E-4E14-86B1-21DF1292CE1E}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D714CEF1-A73E-4E14-86B1-21DF1292CE1E}|Employee.Api\\Employee.Api.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D714CEF1-A73E-4E14-86B1-21DF1292CE1E}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879B43BB-F983-4EE6-AE75-8F02E25BE425}|Employee.Persistence\\Employee.Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879B43BB-F983-4EE6-AE75-8F02E25BE425}|Employee.Persistence\\Employee.Persistence.csproj|solutionrelative:employee.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B95C00B-5AD3-43E2-AC59-20E0946C7D58}|Employee.Domain\\Employee.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B95C00B-5AD3-43E2-AC59-20E0946C7D58}|Employee.Domain\\Employee.Domain.csproj|solutionrelative:employee.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B95C00B-5AD3-43E2-AC59-20E0946C7D58}|Employee.Domain\\Employee.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B95C00B-5AD3-43E2-AC59-20E0946C7D58}|Employee.Domain\\Employee.Domain.csproj|solutionrelative:employee.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E86133-37A1-4EC2-9E3E-A9917399280D}|Employee.Application\\Employee.Application.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.application\\commands\\updateemployee\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E86133-37A1-4EC2-9E3E-A9917399280D}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\commands\\updateemployee\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D714CEF1-A73E-4E14-86B1-21DF1292CE1E}|Employee.Api\\Employee.Api.csproj|c:\\users\\sys.admin\\source\\repos\\employee\\employee.api\\employee.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D714CEF1-A73E-4E14-86B1-21DF1292CE1E}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\employee.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Application\\Commands\\UpdateEmployee\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Commands\\UpdateEmployee\\UpdateEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Application\\Commands\\UpdateEmployee\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "Employee.Application\\Commands\\UpdateEmployee\\UpdateEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:08:44.245Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:32:57.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Persistence\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Persistence\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Persistence\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee.Persistence\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAQAAAAAamZmZmb0vwwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:30:23.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee.Api\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:25:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Api\\Program.cs",
+              "RelativeToolTip": "Employee.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:18:52.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Api\\appsettings.json",
+              "RelativeToolTip": "Employee.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T06:36:08.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Employee.Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Employee.Persistence\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T06:35:38.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Employee.Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "Employee.Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:27:37.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Employee.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Employee.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:27:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Domain\\Entities\\Employees.cs",
+              "RelativeDocumentMoniker": "Employee.Domain\\Entities\\Employees.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Domain\\Entities\\Employees.cs",
+              "RelativeToolTip": "Employee.Domain\\Entities\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:27:13.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Api\\Employee.Api.csproj",
+              "RelativeDocumentMoniker": "Employee.Api\\Employee.Api.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Employee\\Employee.Api\\Employee.Api.csproj",
+              "RelativeToolTip": "Employee.Api\\Employee.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T09:24:22.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Api\obj\Debug\net8.0\JobApplicationService.Api.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Api\obj\Debug\net8.0\JobApplicationService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Api\obj\Debug\net8.0\JobApplicationService.Api.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Api\obj\Debug\net8.0\JobApplicationService.Api.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Api\obj\Debug\net8.0\JobApplicationService.Api.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Api\obj\Debug\net8.0\JobApplicationService.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,17 @@
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\HiringPortal.Persistence.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\HiringPortal.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\HiringPortal.Persistence.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\HiringPortal.Persistence.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\HiringPortal.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\bin\Debug\net8.0\HiringPortal.Persistence.deps.json
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\bin\Debug\net8.0\HiringPortal.Persistence.runtimeconfig.json
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\bin\Debug\net8.0\HiringPortal.Persistence.dll
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\bin\Debug\net8.0\HiringPortal.Persistence.pdb
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\bin\Debug\net8.0\HiringPortal.Domain.dll
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\bin\Debug\net8.0\HiringPortal.Domain.pdb
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\HiringPo.29FE36AC.Up2Date
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\HiringPortal.Persistence.dll
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\refint\HiringPortal.Persistence.dll
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\HiringPortal.Persistence.pdb
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\HiringPortal.Persistence.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal.Persistence\obj\Debug\net8.0\ref\HiringPortal.Persistence.dll

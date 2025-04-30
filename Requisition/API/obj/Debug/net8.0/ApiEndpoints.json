@@ -1,0 +1,71 @@
+[
+  {
+    "ContainingType": "API.Controllers.JobRequisitionController",
+    "Method": "Create",
+    "RelativePath": "api/JobRequisition",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.Commands.CreateJobRequisition.CreateJobRequisitionCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.JobRequisitionController",
+    "Method": "Update",
+    "RelativePath": "api/JobRequisition",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "command",
+        "Type": "Application.Commands.UpdateJobRequisition.UpdateJobRequisitionCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.JobRequisitionController",
+    "Method": "Delete",
+    "RelativePath": "api/JobRequisition",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.JobRequisitionController",
+    "Method": "GetById",
+    "RelativePath": "api/JobRequisition/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

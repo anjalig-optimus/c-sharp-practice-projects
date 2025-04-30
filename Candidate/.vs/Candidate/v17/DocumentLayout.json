@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.application\\commands\\deletecandidate\\deletecandidatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|solutionrelative:candidate.application\\commands\\deletecandidate\\deletecandidatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.application\\commands\\deletecandidate\\deletecandidatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|solutionrelative:candidate.application\\commands\\deletecandidate\\deletecandidatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.application\\commands\\updatecandidate\\updatecandidatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|solutionrelative:candidate.application\\commands\\updatecandidate\\updatecandidatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.application\\commands\\updatecandidate\\updatecandidatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|solutionrelative:candidate.application\\commands\\updatecandidate\\updatecandidatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.application\\commands\\createcandidate\\createcandidatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|solutionrelative:candidate.application\\commands\\createcandidate\\createcandidatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.application\\commands\\createcandidate\\createcandidatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|solutionrelative:candidate.application\\commands\\createcandidate\\createcandidatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.application\\candidate.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{023269EC-5067-45A9-B17C-C8B24CB74867}|Candidate.Application\\Candidate.Application.csproj|solutionrelative:candidate.application\\candidate.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD4B013-2604-49D8-B653-630ADF91F0F2}|Candidate.Domain\\Candidate.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD4B013-2604-49D8-B653-630ADF91F0F2}|Candidate.Domain\\Candidate.Domain.csproj|solutionrelative:candidate.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD4B013-2604-49D8-B653-630ADF91F0F2}|Candidate.Domain\\Candidate.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.domain\\entities\\candidateskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD4B013-2604-49D8-B653-630ADF91F0F2}|Candidate.Domain\\Candidate.Domain.csproj|solutionrelative:candidate.domain\\entities\\candidateskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD4B013-2604-49D8-B653-630ADF91F0F2}|Candidate.Domain\\Candidate.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.domain\\entities\\skillset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD4B013-2604-49D8-B653-630ADF91F0F2}|Candidate.Domain\\Candidate.Domain.csproj|solutionrelative:candidate.domain\\entities\\skillset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD4B013-2604-49D8-B653-630ADF91F0F2}|Candidate.Domain\\Candidate.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.domain\\candidate.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BD4B013-2604-49D8-B653-630ADF91F0F2}|Candidate.Domain\\Candidate.Domain.csproj|solutionrelative:candidate.domain\\candidate.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FEA458-BDF5-417B-9751-3E307B6DF2D6}|Candidate.Persistence\\Candidate.Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\candidate\\candidate.persistence\\candidate.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6FEA458-BDF5-417B-9751-3E307B6DF2D6}|Candidate.Persistence\\Candidate.Persistence.csproj|solutionrelative:candidate.persistence\\candidate.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteCandidateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\DeleteCandidate\\DeleteCandidateHandler.cs",
+              "RelativeDocumentMoniker": "Candidate.Application\\Commands\\DeleteCandidate\\DeleteCandidateHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\DeleteCandidate\\DeleteCandidateHandler.cs",
+              "RelativeToolTip": "Candidate.Application\\Commands\\DeleteCandidate\\DeleteCandidateHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:06:37.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteCandidateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\DeleteCandidate\\DeleteCandidateCommand.cs",
+              "RelativeDocumentMoniker": "Candidate.Application\\Commands\\DeleteCandidate\\DeleteCandidateCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\DeleteCandidate\\DeleteCandidateCommand.cs",
+              "RelativeToolTip": "Candidate.Application\\Commands\\DeleteCandidate\\DeleteCandidateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:06:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCandidateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\UpdateCandidate\\UpdateCandidateHandler.cs",
+              "RelativeDocumentMoniker": "Candidate.Application\\Commands\\UpdateCandidate\\UpdateCandidateHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\UpdateCandidate\\UpdateCandidateHandler.cs",
+              "RelativeToolTip": "Candidate.Application\\Commands\\UpdateCandidate\\UpdateCandidateHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:05:34.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCandidateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\UpdateCandidate\\UpdateCandidateCommand.cs",
+              "RelativeDocumentMoniker": "Candidate.Application\\Commands\\UpdateCandidate\\UpdateCandidateCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\UpdateCandidate\\UpdateCandidateCommand.cs",
+              "RelativeToolTip": "Candidate.Application\\Commands\\UpdateCandidate\\UpdateCandidateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:05:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCandidateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\CreateCandidate\\CreateCandidateHandler.cs",
+              "RelativeDocumentMoniker": "Candidate.Application\\Commands\\CreateCandidate\\CreateCandidateHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\CreateCandidate\\CreateCandidateHandler.cs",
+              "RelativeToolTip": "Candidate.Application\\Commands\\CreateCandidate\\CreateCandidateHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:04:51.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCandidateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\CreateCandidate\\CreateCandidateCommand.cs",
+              "RelativeDocumentMoniker": "Candidate.Application\\Commands\\CreateCandidate\\CreateCandidateCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Commands\\CreateCandidate\\CreateCandidateCommand.cs",
+              "RelativeToolTip": "Candidate.Application\\Commands\\CreateCandidate\\CreateCandidateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:04:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Candidate.Application",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Candidate.Application.csproj",
+              "RelativeDocumentMoniker": "Candidate.Application\\Candidate.Application.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Application\\Candidate.Application.csproj",
+              "RelativeToolTip": "Candidate.Application\\Candidate.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T07:13:22.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SkillSet.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Domain\\Entities\\SkillSet.cs",
+              "RelativeDocumentMoniker": "Candidate.Domain\\Entities\\SkillSet.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Domain\\Entities\\SkillSet.cs",
+              "RelativeToolTip": "Candidate.Domain\\Entities\\SkillSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:11:45.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CandidateSkills.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Domain\\Entities\\CandidateSkills.cs",
+              "RelativeDocumentMoniker": "Candidate.Domain\\Entities\\CandidateSkills.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Domain\\Entities\\CandidateSkills.cs",
+              "RelativeToolTip": "Candidate.Domain\\Entities\\CandidateSkills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:11:09.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Domain\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "Candidate.Domain\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Domain\\Entities\\Candidate.cs",
+              "RelativeToolTip": "Candidate.Domain\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:10:18.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Candidate.Domain",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Domain\\Candidate.Domain.csproj",
+              "RelativeDocumentMoniker": "Candidate.Domain\\Candidate.Domain.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Domain\\Candidate.Domain.csproj",
+              "RelativeToolTip": "Candidate.Domain\\Candidate.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T07:09:41.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Candidate.Persistence",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Persistence\\Candidate.Persistence.csproj",
+              "RelativeDocumentMoniker": "Candidate.Persistence\\Candidate.Persistence.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Candidate\\Candidate.Persistence\\Candidate.Persistence.csproj",
+              "RelativeToolTip": "Candidate.Persistence\\Candidate.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T07:01:46.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

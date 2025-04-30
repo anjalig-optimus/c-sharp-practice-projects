@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|c:\\users\\sys.admin\\source\\repos\\test\\api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|solutionrelative:api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\test\\persistence\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|c:\\users\\sys.admin\\source\\repos\\test\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|c:\\users\\sys.admin\\source\\repos\\test\\api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|solutionrelative:api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\test\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F475DE1-EAC6-4763-A0D8-2AE20BB4073E}|Application\\Application.csproj|c:\\users\\sys.admin\\source\\repos\\test\\application\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F475DE1-EAC6-4763-A0D8-2AE20BB4073E}|Application\\Application.csproj|solutionrelative:application\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|c:\\users\\sys.admin\\source\\repos\\test\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|c:\\users\\sys.admin\\source\\repos\\test\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|c:\\users\\sys.admin\\source\\repos\\test\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|c:\\users\\sys.admin\\source\\repos\\test\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F475DE1-EAC6-4763-A0D8-2AE20BB4073E}|Application\\Application.csproj|c:\\users\\sys.admin\\source\\repos\\test\\application\\interface\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F475DE1-EAC6-4763-A0D8-2AE20BB4073E}|Application\\Application.csproj|solutionrelative:application\\interface\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|c:\\users\\sys.admin\\source\\repos\\test\\domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\test\\persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|solutionrelative:persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|c:\\users\\sys.admin\\source\\repos\\test\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F475DE1-EAC6-4763-A0D8-2AE20BB4073E}|Application\\Application.csproj|c:\\users\\sys.admin\\source\\repos\\test\\application\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F475DE1-EAC6-4763-A0D8-2AE20BB4073E}|Application\\Application.csproj|solutionrelative:application\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F475DE1-EAC6-4763-A0D8-2AE20BB4073E}|Application\\Application.csproj|c:\\users\\sys.admin\\source\\repos\\test\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F475DE1-EAC6-4763-A0D8-2AE20BB4073E}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|c:\\users\\sys.admin\\source\\repos\\test\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F09B05C-6C6D-4984-8543-FCED326AC71C}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\test\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|c:\\users\\sys.admin\\source\\repos\\test\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68BDB9C8-CAE2-4C37-952A-7C08E9B86E12}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\test\\persistence\\migrations\\20250113101706_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2FE490-B5D8-45B7-960F-A486DA883252}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\20250113101706_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Application\\Interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Application\\Interface\\IOrderRepository.cs",
+              "RelativeToolTip": "Application\\Interface\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:36:40.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAsAAABAaGZmZuYswBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:28:57.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:27:05.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Persistence\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAABAZ2ZmZuYUwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:15:28.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:46:17.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ItemRepository.cs",
+              "ViewState": "AgIAAAwAAACAmZmZmRkqwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:36:58.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "API\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAsAAACAzMzMzAwtwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:27:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T07:46:01.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAoAAABAm5mZmVkqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:37:12.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAEAAACQzszMzMwHwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:26:39.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "Domain\\Entities\\Item.cs",
+              "ViewState": "AgIAAAIAAACAzMzMzEwYwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:26:27.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAACAMzMzM3MvwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:27:49.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Application\\Interface\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Application\\Interface\\IItemRepository.cs",
+              "RelativeToolTip": "Application\\Interface\\IItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:36:23.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250113101706_third.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Migrations\\20250113101706_third.cs",
+              "RelativeDocumentMoniker": "Persistence\\Migrations\\20250113101706_third.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Migrations\\20250113101706_third.cs",
+              "RelativeToolTip": "Persistence\\Migrations\\20250113101706_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:17:06.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAgAAAAgAAAAAAAhwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:25:52.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Application\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Application\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:36:06.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T05:12:54.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T07:25:09.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Persistence\\Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T05:14:02.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Test\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T05:12:33.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\bin\Debug\net8.0\JobApplicationService.Domain.deps.json
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\bin\Debug\net8.0\JobApplicationService.Domain.runtimeconfig.json
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\bin\Debug\net8.0\JobApplicationService.Domain.dll
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\bin\Debug\net8.0\JobApplicationService.Domain.pdb
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\JobApplicationService.Domain.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\JobApplicationService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\JobApplicationService.Domain.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\JobApplicationService.Domain.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\JobApplicationService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\JobApplicationService.Domain.dll
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\refint\JobApplicationService.Domain.dll
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\JobApplicationService.Domain.pdb
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\JobApplicationService.Domain.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Domain\obj\Debug\net8.0\ref\JobApplicationService.Domain.dll

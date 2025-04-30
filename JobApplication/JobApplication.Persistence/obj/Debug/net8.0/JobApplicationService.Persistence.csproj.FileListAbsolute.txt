@@ -1,0 +1,5 @@
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Persistence\obj\Debug\net8.0\JobApplicationService.Persistence.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Persistence\obj\Debug\net8.0\JobApplicationService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Persistence\obj\Debug\net8.0\JobApplicationService.Persistence.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Persistence\obj\Debug\net8.0\JobApplicationService.Persistence.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Persistence\obj\Debug\net8.0\JobApplicationService.Persistence.csproj.CoreCompileInputs.cache

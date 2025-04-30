@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.application\\commands\\updatejob\\updatejobhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|solutionrelative:job.application\\commands\\updatejob\\updatejobhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.application\\commands\\updatejob\\updatejobcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|solutionrelative:job.application\\commands\\updatejob\\updatejobcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.application\\commands\\deletejob\\deletjobhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|solutionrelative:job.application\\commands\\deletejob\\deletjobhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.application\\commands\\deletejob\\deletejobcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|solutionrelative:job.application\\commands\\deletejob\\deletejobcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.application\\commands\\createjob\\createjobhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|solutionrelative:job.application\\commands\\createjob\\createjobhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.application\\commands\\createjob\\createjobcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|solutionrelative:job.application\\commands\\createjob\\createjobcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.application\\job.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C774158-2603-4D10-983E-261CEC1FDC73}|Job.Application\\Job.Application.csproj|solutionrelative:job.application\\job.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.domain\\entities\\jobskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|solutionrelative:job.domain\\entities\\jobskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.domain\\entities\\skillset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|solutionrelative:job.domain\\entities\\skillset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|solutionrelative:job.domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.domain\\entities\\employmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|solutionrelative:job.domain\\entities\\employmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.domain\\entities\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|solutionrelative:job.domain\\entities\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35047C9-B919-4984-B65F-F922A7537174}|Job.Persistence\\Job.Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.persistence\\job.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D35047C9-B919-4984-B65F-F922A7537174}|Job.Persistence\\Job.Persistence.csproj|solutionrelative:job.persistence\\job.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\job\\job.domain\\job.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5A21BB8-2E44-4F70-A042-CFF6D40FC2ED}|Job.Domain\\Job.Domain.csproj|solutionrelative:job.domain\\job.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateJobHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\Updatejob\\UpdateJobHandler.cs",
+              "RelativeDocumentMoniker": "Job.Application\\Commands\\Updatejob\\UpdateJobHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\Updatejob\\UpdateJobHandler.cs",
+              "RelativeToolTip": "Job.Application\\Commands\\Updatejob\\UpdateJobHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:59:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateJobCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\Updatejob\\UpdateJobCommand.cs",
+              "RelativeDocumentMoniker": "Job.Application\\Commands\\Updatejob\\UpdateJobCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\Updatejob\\UpdateJobCommand.cs",
+              "RelativeToolTip": "Job.Application\\Commands\\Updatejob\\UpdateJobCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:58:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeletJobHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\DeleteJob\\DeletJobHandler.cs",
+              "RelativeDocumentMoniker": "Job.Application\\Commands\\DeleteJob\\DeletJobHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\DeleteJob\\DeletJobHandler.cs",
+              "RelativeToolTip": "Job.Application\\Commands\\DeleteJob\\DeletJobHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:58:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteJobCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\DeleteJob\\DeleteJobCommand.cs",
+              "RelativeDocumentMoniker": "Job.Application\\Commands\\DeleteJob\\DeleteJobCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\DeleteJob\\DeleteJobCommand.cs",
+              "RelativeToolTip": "Job.Application\\Commands\\DeleteJob\\DeleteJobCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:58:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateJobHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\CreateJob\\CreateJobHandler.cs",
+              "RelativeDocumentMoniker": "Job.Application\\Commands\\CreateJob\\CreateJobHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\CreateJob\\CreateJobHandler.cs",
+              "RelativeToolTip": "Job.Application\\Commands\\CreateJob\\CreateJobHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:58:13.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateJobCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\CreateJob\\CreateJobCommand.cs",
+              "RelativeDocumentMoniker": "Job.Application\\Commands\\CreateJob\\CreateJobCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Commands\\CreateJob\\CreateJobCommand.cs",
+              "RelativeToolTip": "Job.Application\\Commands\\CreateJob\\CreateJobCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:57:03.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SkillSet.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\SkillSet.cs",
+              "RelativeDocumentMoniker": "Job.Domain\\Entities\\SkillSet.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\SkillSet.cs",
+              "RelativeToolTip": "Job.Domain\\Entities\\SkillSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:18:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobSkill.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\JobSkill.cs",
+              "RelativeDocumentMoniker": "Job.Domain\\Entities\\JobSkill.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\JobSkill.cs",
+              "RelativeToolTip": "Job.Domain\\Entities\\JobSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:18:15.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Job.Persistence",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Persistence\\Job.Persistence.csproj",
+              "RelativeDocumentMoniker": "Job.Persistence\\Job.Persistence.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Persistence\\Job.Persistence.csproj",
+              "RelativeToolTip": "Job.Persistence\\Job.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T04:44:46.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Job.Application",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Job.Application.csproj",
+              "RelativeDocumentMoniker": "Job.Application\\Job.Application.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Application\\Job.Application.csproj",
+              "RelativeToolTip": "Job.Application\\Job.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T04:37:00.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmploymentType.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\EmploymentType.cs",
+              "RelativeDocumentMoniker": "Job.Domain\\Entities\\EmploymentType.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\EmploymentType.cs",
+              "RelativeToolTip": "Job.Domain\\Entities\\EmploymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:34:11.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\JobStatus.cs",
+              "RelativeDocumentMoniker": "Job.Domain\\Entities\\JobStatus.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\JobStatus.cs",
+              "RelativeToolTip": "Job.Domain\\Entities\\JobStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:33:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "Job.Domain\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Entities\\Job.cs",
+              "RelativeToolTip": "Job.Domain\\Entities\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:33:36.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Job.Domain",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Job.Domain.csproj",
+              "RelativeDocumentMoniker": "Job.Domain\\Job.Domain.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Job\\Job.Domain\\Job.Domain.csproj",
+              "RelativeToolTip": "Job.Domain\\Job.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T04:33:00.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

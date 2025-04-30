@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\jobinterview\\jobinterview.domain\\entities\\jobinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|solutionrelative:jobinterview.domain\\entities\\jobinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\jobinterview\\jobinterview.domain\\entities\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|solutionrelative:jobinterview.domain\\entities\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\jobinterview\\jobinterview.domain\\entities\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|solutionrelative:jobinterview.domain\\entities\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\jobinterview\\jobinterview.domain\\entities\\remarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|solutionrelative:jobinterview.domain\\entities\\remarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CAB55-EC4A-4485-B99B-F97E9940A830}|JobInterview.Application\\JobInterview.Application.csproj|c:\\users\\sys.admin\\source\\repos\\jobinterview\\jobinterview.application\\jobinterview.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB2CAB55-EC4A-4485-B99B-F97E9940A830}|JobInterview.Application\\JobInterview.Application.csproj|solutionrelative:jobinterview.application\\jobinterview.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\jobinterview\\jobinterview.domain\\jobinterview.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A8A2B6D-3877-4AC1-A650-4AA38023E253}|JobInterview.Domain\\JobInterview.Domain.csproj|solutionrelative:jobinterview.domain\\jobinterview.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCADA45F-5F7D-40AC-9C1E-4C4B1A386223}|JobInterview.Persistence\\JobInterview.Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\jobinterview\\jobinterview.persistence\\jobinterview.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCADA45F-5F7D-40AC-9C1E-4C4B1A386223}|JobInterview.Persistence\\JobInterview.Persistence.csproj|solutionrelative:jobinterview.persistence\\jobinterview.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobInterview.Application",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Application\\JobInterview.Application.csproj",
+              "RelativeDocumentMoniker": "JobInterview.Application\\JobInterview.Application.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Application\\JobInterview.Application.csproj",
+              "RelativeToolTip": "JobInterview.Application\\JobInterview.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T06:07:10.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobInterview.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\Entities\\JobInterview.cs",
+              "RelativeDocumentMoniker": "JobInterview.Domain\\Entities\\JobInterview.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\Entities\\JobInterview.cs",
+              "RelativeToolTip": "JobInterview.Domain\\Entities\\JobInterview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:38:23.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterviewStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\Entities\\InterviewStatus.cs",
+              "RelativeDocumentMoniker": "JobInterview.Domain\\Entities\\InterviewStatus.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\Entities\\InterviewStatus.cs",
+              "RelativeToolTip": "JobInterview.Domain\\Entities\\InterviewStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:32:19.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Remarks.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\Entities\\Remarks.cs",
+              "RelativeDocumentMoniker": "JobInterview.Domain\\Entities\\Remarks.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\Entities\\Remarks.cs",
+              "RelativeToolTip": "JobInterview.Domain\\Entities\\Remarks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:31:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\Entities\\Stage.cs",
+              "RelativeDocumentMoniker": "JobInterview.Domain\\Entities\\Stage.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\Entities\\Stage.cs",
+              "RelativeToolTip": "JobInterview.Domain\\Entities\\Stage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:30:14.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobInterview.Domain",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\JobInterview.Domain.csproj",
+              "RelativeDocumentMoniker": "JobInterview.Domain\\JobInterview.Domain.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Domain\\JobInterview.Domain.csproj",
+              "RelativeToolTip": "JobInterview.Domain\\JobInterview.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T05:29:54.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobInterview.Persistence",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Persistence\\JobInterview.Persistence.csproj",
+              "RelativeDocumentMoniker": "JobInterview.Persistence\\JobInterview.Persistence.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobInterview\\JobInterview.Persistence\\JobInterview.Persistence.csproj",
+              "RelativeToolTip": "JobInterview.Persistence\\JobInterview.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T05:22:09.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

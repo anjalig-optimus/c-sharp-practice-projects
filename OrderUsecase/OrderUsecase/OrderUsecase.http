@@ -1,0 +1,6 @@
+@OrderUsecase_HostAddress = http://localhost:5019
+
+GET {{OrderUsecase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

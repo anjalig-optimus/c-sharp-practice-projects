@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F556C205-975D-47CC-9E3C-E9096BD42143}|JobApplication.Api\\JobApplicationService.Api.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F556C205-975D-47CC-9E3C-E9096BD42143}|JobApplication.Api\\JobApplicationService.Api.csproj|solutionrelative:jobapplication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F556C205-975D-47CC-9E3C-E9096BD42143}|JobApplication.Api\\JobApplicationService.Api.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F556C205-975D-47CC-9E3C-E9096BD42143}|JobApplication.Api\\JobApplicationService.Api.csproj|solutionrelative:jobapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E88F911-D1FC-4FF8-B615-9121C87877A1}|JobApplication.Persistence\\JobApplicationService.Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E88F911-D1FC-4FF8-B615-9121C87877A1}|JobApplication.Persistence\\JobApplicationService.Persistence.csproj|solutionrelative:jobapplication.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.application\\commands\\updatejobapplication\\updatejobapplicationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|solutionrelative:jobapplication.application\\commands\\updatejobapplication\\updatejobapplicationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.application\\commands\\updatejobapplication\\updatejobapplicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|solutionrelative:jobapplication.application\\commands\\updatejobapplication\\updatejobapplicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.application\\commands\\deletejobapplication\\deletejobapplicationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|solutionrelative:jobapplication.application\\commands\\deletejobapplication\\deletejobapplicationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.application\\commands\\deletejobapplication\\deletejobapplicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|solutionrelative:jobapplication.application\\commands\\deletejobapplication\\deletejobapplicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.application\\commands\\createjobapplication\\createjobapplicationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|solutionrelative:jobapplication.application\\commands\\createjobapplication\\createjobapplicationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.application\\commands\\createjobapplication\\createjobapplicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B53509-BD9A-4128-9C9B-4298514A90A6}|JobApplication.Application\\JobApplicationService.Application.csproj|solutionrelative:jobapplication.application\\commands\\createjobapplication\\createjobapplicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381CC4CD-3468-4C3D-81DC-F260645C3EFB}|JobApplication.Domain\\JobApplicationService.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.domain\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381CC4CD-3468-4C3D-81DC-F260645C3EFB}|JobApplication.Domain\\JobApplicationService.Domain.csproj|solutionrelative:jobapplication.domain\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381CC4CD-3468-4C3D-81DC-F260645C3EFB}|JobApplication.Domain\\JobApplicationService.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.domain\\jobapplicationservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{381CC4CD-3468-4C3D-81DC-F260645C3EFB}|JobApplication.Domain\\JobApplicationService.Domain.csproj|solutionrelative:jobapplication.domain\\jobapplicationservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381CC4CD-3468-4C3D-81DC-F260645C3EFB}|JobApplication.Domain\\JobApplicationService.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\jobapplication\\jobapplication.domain\\entities\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381CC4CD-3468-4C3D-81DC-F260645C3EFB}|JobApplication.Domain\\JobApplicationService.Domain.csproj|solutionrelative:jobapplication.domain\\entities\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateJobApplicationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\UpdateJobApplication\\UpdateJobApplicationCommand.cs",
+              "RelativeDocumentMoniker": "JobApplication.Application\\Commands\\UpdateJobApplication\\UpdateJobApplicationCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\UpdateJobApplication\\UpdateJobApplicationCommand.cs*",
+              "RelativeToolTip": "JobApplication.Application\\Commands\\UpdateJobApplication\\UpdateJobApplicationCommand.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:03:08.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteJobApplicationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\DeleteJobApplication\\DeleteJobApplicationHandler.cs",
+              "RelativeDocumentMoniker": "JobApplication.Application\\Commands\\DeleteJobApplication\\DeleteJobApplicationHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\DeleteJobApplication\\DeleteJobApplicationHandler.cs*",
+              "RelativeToolTip": "JobApplication.Application\\Commands\\DeleteJobApplication\\DeleteJobApplicationHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:02:58.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteJobApplicationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\DeleteJobApplication\\DeleteJobApplicationCommand.cs",
+              "RelativeDocumentMoniker": "JobApplication.Application\\Commands\\DeleteJobApplication\\DeleteJobApplicationCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\DeleteJobApplication\\DeleteJobApplicationCommand.cs*",
+              "RelativeToolTip": "JobApplication.Application\\Commands\\DeleteJobApplication\\DeleteJobApplicationCommand.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:02:35.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobApplication.Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Persistence\\Data\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "JobApplication.Persistence\\Data\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:14:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "JobApplication.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Api\\appsettings.json",
+              "RelativeToolTip": "JobApplication.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T10:29:52.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Api\\Program.cs",
+              "RelativeDocumentMoniker": "JobApplication.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Api\\Program.cs*",
+              "RelativeToolTip": "JobApplication.Api\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:38:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateJobApplicationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\UpdateJobApplication\\UpdateJobApplicationHandler.cs",
+              "RelativeDocumentMoniker": "JobApplication.Application\\Commands\\UpdateJobApplication\\UpdateJobApplicationHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\UpdateJobApplication\\UpdateJobApplicationHandler.cs*",
+              "RelativeToolTip": "JobApplication.Application\\Commands\\UpdateJobApplication\\UpdateJobApplicationHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:03:15.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobApplicationService.Domain",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Domain\\JobApplicationService.Domain.csproj",
+              "RelativeDocumentMoniker": "JobApplication.Domain\\JobApplicationService.Domain.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Domain\\JobApplicationService.Domain.csproj",
+              "RelativeToolTip": "JobApplication.Domain\\JobApplicationService.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T13:01:22.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateJobApplicationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\CreateJobApplication\\CreateJobApplicationCommand.cs",
+              "RelativeDocumentMoniker": "JobApplication.Application\\Commands\\CreateJobApplication\\CreateJobApplicationCommand.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\CreateJobApplication\\CreateJobApplicationCommand.cs",
+              "RelativeToolTip": "JobApplication.Application\\Commands\\CreateJobApplication\\CreateJobApplicationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:38:43.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Domain\\Entities\\JobApplication.cs",
+              "RelativeDocumentMoniker": "JobApplication.Domain\\Entities\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Domain\\Entities\\JobApplication.cs",
+              "RelativeToolTip": "JobApplication.Domain\\Entities\\JobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:29:12.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Domain\\Entities\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "JobApplication.Domain\\Entities\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Domain\\Entities\\ApplicationStatus.cs",
+              "RelativeToolTip": "JobApplication.Domain\\Entities\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:12:29.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateJobApplicationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\CreateJobApplication\\CreateJobApplicationHandler.cs",
+              "RelativeDocumentMoniker": "JobApplication.Application\\Commands\\CreateJobApplication\\CreateJobApplicationHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\JobApplication\\JobApplication.Application\\Commands\\CreateJobApplication\\CreateJobApplicationHandler.cs",
+              "RelativeToolTip": "JobApplication.Application\\Commands\\CreateJobApplication\\CreateJobApplicationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:39:20.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

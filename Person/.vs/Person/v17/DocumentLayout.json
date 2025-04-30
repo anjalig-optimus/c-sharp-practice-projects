@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\Person\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\repository\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\repository\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\repository\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\repository\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\person_json.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\person_json.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\migrations\\20250127042920_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\migrations\\20250127042920_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\migrations\\20250127043744_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\migrations\\20250127043744_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\migrations\\20250127043037_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\migrations\\20250127043037_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\migrations\\authdb\\20250129052228_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\migrations\\authdb\\20250129052228_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|c:\\users\\sys.admin\\source\\repos\\person\\person\\migrations\\authdb\\20250129051332_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B80C-D974-4DCB-88F7-729815E65D3F}|Person\\Person_json.csproj|solutionrelative:person\\migrations\\authdb\\20250129051332_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Person\\Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "Person\\Repository\\PersonRepository.cs",
+              "ViewState": "AgIAAAQAAABgzMzMzIwjwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:31:23.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Repository\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "Person\\Repository\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Repository\\TokenRepository.cs",
+              "RelativeToolTip": "Person\\Repository\\TokenRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:57:54.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Person\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Entities\\Person.cs",
+              "RelativeToolTip": "Person\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:22:04.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250129052228_fifth.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\AuthDb\\20250129052228_fifth.cs",
+              "RelativeDocumentMoniker": "Person\\Migrations\\AuthDb\\20250129052228_fifth.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\AuthDb\\20250129052228_fifth.cs",
+              "RelativeToolTip": "Person\\Migrations\\AuthDb\\20250129052228_fifth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:22:28.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Person\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Person\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:38:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Program.cs",
+              "RelativeDocumentMoniker": "Person\\Program.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Program.cs",
+              "RelativeToolTip": "Person\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:27:46.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Repository\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "Person\\Repository\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Repository\\ITokenRepository.cs",
+              "RelativeToolTip": "Person\\Repository\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:56:11.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Person\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Person\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAABYAAABAZmZmZqYrwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:21:41.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Person\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Person\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:38:37.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\appsettings.json",
+              "RelativeDocumentMoniker": "Person\\appsettings.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\appsettings.json",
+              "RelativeToolTip": "Person\\appsettings.json",
+              "ViewState": "AgIAAAAAAACamZmZmZkRwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T04:28:22.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Person\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Person\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:59:32.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Person\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "Person\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:36:04.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\DTO\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "Person\\DTO\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\DTO\\LoginResponseDTO.cs",
+              "RelativeToolTip": "Person\\DTO\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:25:48.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250129051332_fourth.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\AuthDb\\20250129051332_fourth.cs",
+              "RelativeDocumentMoniker": "Person\\Migrations\\AuthDb\\20250129051332_fourth.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\AuthDb\\20250129051332_fourth.cs",
+              "RelativeToolTip": "Person\\Migrations\\AuthDb\\20250129051332_fourth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:13:32.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Person_json.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Person_json.csproj",
+              "RelativeDocumentMoniker": "Person\\Person_json.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Person_json.csproj",
+              "RelativeToolTip": "Person\\Person_json.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T05:09:28.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Person\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Person\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:23:32.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250127042920_initial.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\20250127042920_initial.cs",
+              "RelativeDocumentMoniker": "Person\\Migrations\\20250127042920_initial.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\20250127042920_initial.cs",
+              "RelativeToolTip": "Person\\Migrations\\20250127042920_initial.cs",
+              "ViewState": "AgIAABAAAAAAZ2ZmZuYbwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:03:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250127043744_third.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\20250127043744_third.cs",
+              "RelativeDocumentMoniker": "Person\\Migrations\\20250127043744_third.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\20250127043744_third.cs",
+              "RelativeToolTip": "Person\\Migrations\\20250127043744_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:37:44.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250127043037_second.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\20250127043037_second.cs",
+              "RelativeDocumentMoniker": "Person\\Migrations\\20250127043037_second.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\Person\\Person\\Migrations\\20250127043037_second.cs",
+              "RelativeToolTip": "Person\\Migrations\\20250127043037_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:30:37.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

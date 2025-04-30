@@ -1,0 +1,17 @@
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\bin\Debug\net8.0\HiringPortal.Application.deps.json
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\bin\Debug\net8.0\HiringPortal.Application.runtimeconfig.json
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\bin\Debug\net8.0\HiringPortal.Application.dll
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\bin\Debug\net8.0\HiringPortal.Application.pdb
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\bin\Debug\net8.0\HiringPortal.Domain.dll
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\bin\Debug\net8.0\HiringPortal.Domain.pdb
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\HiringPortal.Application.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\HiringPortal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\HiringPortal.Application.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\HiringPortal.Application.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\HiringPortal.Application.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\HiringPo.4AE96D3E.Up2Date
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\HiringPortal.Application.dll
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\refint\HiringPortal.Application.dll
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\HiringPortal.Application.pdb
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\HiringPortal.Application.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\HiringPortal\HiringPortal\obj\Debug\net8.0\ref\HiringPortal.Application.dll

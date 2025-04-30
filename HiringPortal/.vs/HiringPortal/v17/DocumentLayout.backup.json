@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989CD103-7640-47FC-BC6E-733B813F3C6E}|HiringPortal.Persistence\\HiringPortal.Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989CD103-7640-47FC-BC6E-733B813F3C6E}|HiringPortal.Persistence\\HiringPortal.Persistence.csproj|solutionrelative:hiringportal.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFE6FAB-92DA-4E97-AC08-23CE1B248CB6}|HiringPortal.API\\HiringPortal.API.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFE6FAB-92DA-4E97-AC08-23CE1B248CB6}|HiringPortal.API\\HiringPortal.API.csproj|solutionrelative:hiringportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\requisition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\requisition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\requisitionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\requisitionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\entities\\candidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\candidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFE6FAB-92DA-4E97-AC08-23CE1B248CB6}|HiringPortal.API\\HiringPortal.API.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.api\\hiringportal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BFE6FAB-92DA-4E97-AC08-23CE1B248CB6}|HiringPortal.API\\HiringPortal.API.csproj|solutionrelative:hiringportal.api\\hiringportal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFE6FAB-92DA-4E97-AC08-23CE1B248CB6}|HiringPortal.API\\HiringPortal.API.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BFE6FAB-92DA-4E97-AC08-23CE1B248CB6}|HiringPortal.API\\HiringPortal.API.csproj|solutionrelative:hiringportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED09FD0F-D9B7-475D-8408-85024BBF29A0}|HiringPortal\\HiringPortal.Application.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal\\hiringportal.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED09FD0F-D9B7-475D-8408-85024BBF29A0}|HiringPortal\\HiringPortal.Application.csproj|solutionrelative:hiringportal\\hiringportal.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989CD103-7640-47FC-BC6E-733B813F3C6E}|HiringPortal.Persistence\\HiringPortal.Persistence.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.persistence\\hiringportal.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{989CD103-7640-47FC-BC6E-733B813F3C6E}|HiringPortal.Persistence\\HiringPortal.Persistence.csproj|solutionrelative:hiringportal.persistence\\hiringportal.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.domain\\hiringportal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DE21B31-71E7-4520-A8ED-4515E7EC7A3F}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\hiringportal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A8273F-A57D-43F2-9FFB-69491390F03D}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\sys.admin\\source\\repos\\hiringportal\\hiringportal.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A8273F-A57D-43F2-9FFB-69491390F03D}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequisitionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\RequisitionStatus.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\RequisitionStatus.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\RequisitionStatus.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\RequisitionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:44:52.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Requisition.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Requisition.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Requisition.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Requisition.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Requisition.cs",
+              "ViewState": "AgIAAAcAAADAmZmZmVkqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:44:51.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\JobApplication.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\JobApplication.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\JobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:44:12.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Job.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:44:10.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterviewStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\InterviewStatus.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\InterviewStatus.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\InterviewStatus.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\InterviewStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:44:08.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\EmployeeType.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\EmployeeType.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\EmployeeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:44:07.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:43:38.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:43:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CandidateSkill.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\CandidateSkill.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\CandidateSkill.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\CandidateSkill.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\CandidateSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:43:33.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\Candidate.cs*",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Candidate.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:43:26.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Entities\\ApplicationStatus.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:43:20.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HiringPortal.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.API\\appsettings.json",
+              "RelativeToolTip": "HiringPortal.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T09:32:17.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.API\\Program.cs",
+              "RelativeDocumentMoniker": "HiringPortal.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.API\\Program.cs",
+              "RelativeToolTip": "HiringPortal.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:21:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HiringPortal.Persistence\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAG0AAAAAFAAAAAD8vz0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:43:11.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HiringPortal.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Persistence\\HiringPortal.Persistence.csproj",
+              "RelativeDocumentMoniker": "HiringPortal.Persistence\\HiringPortal.Persistence.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Persistence\\HiringPortal.Persistence.csproj",
+              "RelativeToolTip": "HiringPortal.Persistence\\HiringPortal.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T07:42:16.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HiringPortal.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\HiringPortal.Domain.csproj",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\HiringPortal.Domain.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\HiringPortal.Domain.csproj",
+              "RelativeToolTip": "HiringPortal.Domain\\HiringPortal.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T07:16:55.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HiringPortal.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal\\HiringPortal.Application.csproj",
+              "RelativeDocumentMoniker": "HiringPortal\\HiringPortal.Application.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal\\HiringPortal.Application.csproj",
+              "RelativeToolTip": "HiringPortal\\HiringPortal.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T07:06:42.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HiringPortal.API.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.API\\HiringPortal.API.csproj",
+              "RelativeDocumentMoniker": "HiringPortal.API\\HiringPortal.API.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.API\\HiringPortal.API.csproj",
+              "RelativeToolTip": "HiringPortal.API\\HiringPortal.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T06:11:17.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:56:34.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\HiringPortal\\HiringPortal.Domain\\Class1.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:12:11.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

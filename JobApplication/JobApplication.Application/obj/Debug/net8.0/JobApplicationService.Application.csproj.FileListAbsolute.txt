@@ -1,0 +1,17 @@
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\bin\Debug\net8.0\JobApplicationService.Application.deps.json
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\bin\Debug\net8.0\JobApplicationService.Application.runtimeconfig.json
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\bin\Debug\net8.0\JobApplicationService.Application.dll
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\bin\Debug\net8.0\JobApplicationService.Application.pdb
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\bin\Debug\net8.0\JobApplicationService.Domain.dll
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\bin\Debug\net8.0\JobApplicationService.Domain.pdb
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\JobApplicationService.Application.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\JobApplicationService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\JobApplicationService.Application.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\JobApplicationService.Application.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\JobApplicationService.Application.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\JobAppli.A46C44A5.Up2Date
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\JobApplicationService.Application.dll
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\refint\JobApplicationService.Application.dll
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\JobApplicationService.Application.pdb
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\JobApplicationService.Application.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\JobApplication\JobApplication.Application\obj\Debug\net8.0\ref\JobApplicationService.Application.dll

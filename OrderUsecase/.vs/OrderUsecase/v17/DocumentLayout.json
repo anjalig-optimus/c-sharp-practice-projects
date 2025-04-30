@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\functionapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\functionapp1\\timerqueuefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\timerqueuefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\functionapp1\\queuefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\queuefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\functionapp1\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\functionapp1\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\functionapp1\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\functionapp1\\functionapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F735912D-4FC3-4BEE-9555-5A86A872353B}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\functionapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\core\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\core\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\unittest\\moq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\unittest\\moq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\middlewares\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\middlewares\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\application\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\application\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\orderusecase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\orderusecase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\application\\commands\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\application\\commands\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|c:\\users\\sys.admin\\source\\repos\\orderusecase\\orderusecase\\application\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A43746-D27E-4946-A724-B538994CB88E}|OrderUsecase\\OrderUsecase.csproj|solutionrelative:orderusecase\\application\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\Program.cs",
+              "RelativeToolTip": "FunctionApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:19:05.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueueFunction.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\QueueFunction.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\QueueFunction.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\QueueFunction.cs",
+              "RelativeToolTip": "FunctionApp1\\QueueFunction.cs",
+              "ViewState": "AgIAABkAAAAwMzMzM5MwwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:46:42.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FunctionApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\FunctionApp1.csproj",
+              "RelativeDocumentMoniker": "FunctionApp1\\FunctionApp1.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\FunctionApp1.csproj",
+              "RelativeToolTip": "FunctionApp1\\FunctionApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T07:26:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimerQueueFunction.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\TimerQueueFunction.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\TimerQueueFunction.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\TimerQueueFunction.cs",
+              "RelativeToolTip": "FunctionApp1\\TimerQueueFunction.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAApwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:19:30.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\Function1.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\Function1.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\Function1.cs",
+              "RelativeToolTip": "FunctionApp1\\Function1.cs",
+              "ViewState": "AgIAAAcAAACAZmZmZuYSwBQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:37:12.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Core\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Core\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Core\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "OrderUsecase\\Core\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:06:48.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Core\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Core\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Core\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderUsecase\\Core\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:06:47.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderUsecase\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:36:37.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\local.settings.json",
+              "RelativeDocumentMoniker": "FunctionApp1\\local.settings.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\local.settings.json",
+              "RelativeToolTip": "FunctionApp1\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T04:58:40.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\host.json",
+              "RelativeDocumentMoniker": "FunctionApp1\\host.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\FunctionApp1\\host.json",
+              "RelativeToolTip": "FunctionApp1\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T05:13:11.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Core\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Core\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Core\\Entities\\Customer.cs",
+              "RelativeToolTip": "OrderUsecase\\Core\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:06:46.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\repository\\IRepo.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\repository\\IRepo.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\repository\\IRepo.cs",
+              "RelativeToolTip": "OrderUsecase\\repository\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:54:10.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Application\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Application\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Application\\IApplicationDbContext.cs",
+              "RelativeToolTip": "OrderUsecase\\Application\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:53:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderUsecase\\appsettings.json",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\appsettings.json",
+              "RelativeToolTip": "OrderUsecase\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T07:21:58.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\repository\\Repo.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\repository\\Repo.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\repository\\Repo.cs",
+              "RelativeToolTip": "OrderUsecase\\repository\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:51:47.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Moq.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\UnitTest\\Moq.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\UnitTest\\Moq.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\UnitTest\\Moq.cs",
+              "RelativeToolTip": "OrderUsecase\\UnitTest\\Moq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:43:22.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderUsecase.csproj",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\OrderUsecase.csproj",
+              "RelativeDocumentMoniker": "OrderUsecase\\OrderUsecase.csproj",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\OrderUsecase.csproj",
+              "RelativeToolTip": "OrderUsecase\\OrderUsecase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T04:42:50.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetOrderByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Application\\Queries\\GetOrderByIdQuery.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Application\\Queries\\GetOrderByIdQuery.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Application\\Queries\\GetOrderByIdQuery.cs",
+              "RelativeToolTip": "OrderUsecase\\Application\\Queries\\GetOrderByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:04:08.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OrderUsecase\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAACAoJmZmZkOwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:56:41.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Application\\Commands\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Application\\Commands\\Handlers\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Application\\Commands\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "OrderUsecase\\Application\\Commands\\Handlers\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAAYAAACgzczMzEwXwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:37:47.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Program.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Program.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Program.cs",
+              "RelativeToolTip": "OrderUsecase\\Program.cs",
+              "ViewState": "AgIAAAkAAADAzMzMzMwHwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:35:52.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Middlewares\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "OrderUsecase\\Middlewares\\CustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\sys.admin\\source\\repos\\OrderUsecase\\OrderUsecase\\Middlewares\\CustomMiddleware.cs",
+              "RelativeToolTip": "OrderUsecase\\Middlewares\\CustomMiddleware.cs",
+              "ViewState": "AgIAAAgAAABAmpmZmdkvwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:16:41.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

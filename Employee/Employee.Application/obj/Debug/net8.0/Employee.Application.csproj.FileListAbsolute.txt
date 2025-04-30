@@ -1,0 +1,17 @@
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\bin\Debug\net8.0\Employee.Application.deps.json
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\bin\Debug\net8.0\Employee.Application.runtimeconfig.json
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\bin\Debug\net8.0\Employee.Application.dll
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\bin\Debug\net8.0\Employee.Application.pdb
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\bin\Debug\net8.0\Employee.Domain.dll
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\bin\Debug\net8.0\Employee.Domain.pdb
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\Employee.Application.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\Employee.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\Employee.Application.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\Employee.Application.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\Employee.Application.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\Employee.55D0FAD1.Up2Date
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\Employee.Application.dll
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\refint\Employee.Application.dll
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\Employee.Application.pdb
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\Employee.Application.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\Employee\Employee.Application\obj\Debug\net8.0\ref\Employee.Application.dll
