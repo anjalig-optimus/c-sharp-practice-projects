@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anjali.gupta\\source\\repos\\dotnet1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4EAE275-52DD-4F66-9834-1BBC74CDF61A}|DAL\\DAL.csproj|c:\\users\\anjali.gupta\\source\\repos\\dotnet1\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4EAE275-52DD-4F66-9834-1BBC74CDF61A}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC5C778-C2B4-4A60-A0F7-03AA56BC04A0}|Solution Items{CEC5C778-C2B4-4A60-A0F7-03AA56BC04A0}|C:\\Users\\anjali.gupta\\source\\repos\\dotnet1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC5C778-C2B4-4A60-A0F7-03AA56BC04A0}|Solution Items{CEC5C778-C2B4-4A60-A0F7-03AA56BC04A0}|solutionrelative:Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\dotnet1\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\dotnet1\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:50:03.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\dotnet1\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\dotnet1\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:49:12.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anjali.gupta\\source\\repos\\Asynchronous\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE77420-2699-415C-9B6B-3336BA004CA3}|Asynchronous\\Asynchronous.csproj|C:\\Users\\anjali.gupta\\source\\repos\\Asynchronous\\asynchronous\\tpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE77420-2699-415C-9B6B-3336BA004CA3}|Asynchronous\\Asynchronous.csproj|solutionrelative:asynchronous\\tpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE77420-2699-415C-9B6B-3336BA004CA3}|Asynchronous\\Asynchronous.csproj|C:\\Users\\anjali.gupta\\source\\repos\\Asynchronous\\asynchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE77420-2699-415C-9B6B-3336BA004CA3}|Asynchronous\\Asynchronous.csproj|solutionrelative:asynchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE77420-2699-415C-9B6B-3336BA004CA3}|Asynchronous\\Asynchronous.csproj|c:\\users\\anjali.gupta\\source\\repos\\asynchronous\\asynchronous\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE77420-2699-415C-9B6B-3336BA004CA3}|Asynchronous\\Asynchronous.csproj|solutionrelative:asynchronous\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\Asynchronous\\Asynchronous\\Program.cs",
+              "RelativeDocumentMoniker": "Asynchronous\\Program.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\Asynchronous\\Asynchronous\\Program.cs",
+              "RelativeToolTip": "Asynchronous\\Program.cs",
+              "ViewState": "AgIAAB0AAABAmZmZmdktwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:18:46.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\Asynchronous\\Asynchronous\\Class1.cs",
+              "RelativeDocumentMoniker": "Asynchronous\\Class1.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\Asynchronous\\Asynchronous\\Class1.cs",
+              "RelativeToolTip": "Asynchronous\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:08:57.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TPL.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\Asynchronous\\Asynchronous\\TPL.cs",
+              "RelativeDocumentMoniker": "Asynchronous\\TPL.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\Asynchronous\\Asynchronous\\TPL.cs",
+              "RelativeToolTip": "Asynchronous\\TPL.cs",
+              "ViewState": "AgIAAB4AAADAmZmZmRkVwBsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:16:22.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

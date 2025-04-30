@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|c:\\users\\anjali.gupta\\source\\repos\\oops\\oops\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|solutionrelative:oops\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\oops\\fluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|solutionrelative:oops\\fluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\oops\\methodhidingoverriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|solutionrelative:oops\\methodhidingoverriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\oops\\modelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|solutionrelative:oops\\modelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\oops\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|solutionrelative:oops\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58923CD1-64A8-4470-8F6E-180D5D3FDC3C}|OOPS\\OOPS.csproj|solutionrelative:oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\ModelBuilder.cs",
+              "RelativeDocumentMoniker": "OOPS\\ModelBuilder.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\ModelBuilder.cs",
+              "RelativeToolTip": "OOPS\\ModelBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:47:08.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\Person.cs",
+              "RelativeDocumentMoniker": "OOPS\\Person.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\Person.cs",
+              "RelativeToolTip": "OOPS\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:46:38.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FluentAPI.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\FluentAPI.cs",
+              "RelativeDocumentMoniker": "OOPS\\FluentAPI.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\FluentAPI.cs",
+              "RelativeToolTip": "OOPS\\FluentAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:45:18.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MethodHidingOverriding.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\MethodHidingOverriding.cs",
+              "RelativeDocumentMoniker": "OOPS\\MethodHidingOverriding.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\MethodHidingOverriding.cs",
+              "RelativeToolTip": "OOPS\\MethodHidingOverriding.cs",
+              "ViewState": "AgIAABAAAAAgMzMzM/MlwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:27:00.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\Abstraction.cs",
+              "RelativeDocumentMoniker": "OOPS\\Abstraction.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\Abstraction.cs",
+              "RelativeToolTip": "OOPS\\Abstraction.cs",
+              "ViewState": "AgIAAAEAAAAAzMzMzMwnwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:21:53.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\Program.cs",
+              "RelativeDocumentMoniker": "OOPS\\Program.cs",
+              "ToolTip": "C:\\Users\\anjali.gupta\\source\\repos\\OOPS\\OOPS\\Program.cs",
+              "RelativeToolTip": "OOPS\\Program.cs",
+              "ViewState": "AgIAABgAAACAzMzMzAwrwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:18:16.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
